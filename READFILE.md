@@ -1,3 +1,5 @@
+#Comandos do Git para lembrar
+
 ## Configurando o usuário global para cada commit
 ```
 git config --global user.name "Seu nome para exibição"
